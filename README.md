@@ -3,7 +3,7 @@
 This is a React-based web application that allows users to browse various competitions, view details, and enter competitions.
 
 ## Live Demo
-[GitHub Pages Live Link](https://red-bay-0baf3a80f-preview.eastus2.6.azurestaticapps.net/)
+[Live Link](https://red-bay-0baf3a80f-preview.eastus2.6.azurestaticapps.net/)
 
 ## Features
 - View a list of competitions
@@ -35,7 +35,4 @@ To run this project locally, follow these steps:
    npm run dev
    ```
 5. Open your browser and visit `http://localhost:5173`
-
-## License
-This project is open-source under the [MIT License](LICENSE).
 
