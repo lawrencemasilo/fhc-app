@@ -1,1 +1,33 @@
 @import "tailwindcss";
+@keyframes slide-in {
+  from {
+    transform: translateX(100%);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+.animate-slide-in {
+  animation: slide-in 0.3s ease-out;
+}
+
+.modal-backdrop {
+  backdrop-filter: blur(2px);
+}
+
+
+.competition-card:hover .competition-image {
+  transform: scale(1.02);
+}
+
+.toast-notification {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.form-input:focus {
+  border-color: #3b82f6;
+  box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.3);
+}

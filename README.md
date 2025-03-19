@@ -3,7 +3,7 @@
 This is a React-based web application that allows users to browse various competitions, view details, and enter competitions.
 
 ## Live Demo
-[GitHub Pages Live Link](https://lawrencemasilo.github.io/fhc-app/)
+[GitHub Pages Live Link](https://red-bay-0baf3a80f-preview.eastus2.6.azurestaticapps.net/)
 
 ## Features
 - View a list of competitions
